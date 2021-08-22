@@ -42,4 +42,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-### игнорировать файлы настроек CLI
+### игнорировать файлы настроек CLIновая строчка для fix
