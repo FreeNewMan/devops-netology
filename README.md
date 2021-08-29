@@ -1,4 +1,3 @@
-# devops-netology
 #first edit
 
 ### Исключить все файлы в поддкаталоге .terraform
